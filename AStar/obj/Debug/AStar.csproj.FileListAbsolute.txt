@@ -1,0 +1,91 @@
+D:\毕业设计Astar\上半部分\AStar\AStar\bin\Debug\AStar.exe.config
+D:\毕业设计Astar\上半部分\AStar\AStar\bin\Debug\AStar.exe
+D:\毕业设计Astar\上半部分\AStar\AStar\bin\Debug\AStar.pdb
+D:\毕业设计Astar\上半部分\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\毕业设计Astar\上半部分\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+D:\毕业设计Astar\上半部分\AStar\AStar\obj\Debug\AStar.exe
+D:\毕业设计Astar\上半部分\AStar\AStar\obj\Debug\AStar.pdb
+D:\毕业设计Astar\上半部分\AStar\AStar\obj\Debug\AStar.Form1.resources
+D:\毕业设计Astar\上半部分\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\毕业设计Astar\下半部分\AStar\AStar\bin\Debug\AStar.exe.config
+D:\毕业设计Astar\下半部分\AStar\AStar\obj\Debug\AStar.exe
+D:\毕业设计Astar\下半部分\AStar\AStar\obj\Debug\AStar.pdb
+D:\毕业设计Astar\下半部分\AStar\AStar\bin\Debug\AStar.exe
+D:\毕业设计Astar\下半部分\AStar\AStar\bin\Debug\AStar.pdb
+D:\毕业设计Astar\下半部分\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\毕业设计Astar\下半部分\AStar\AStar\obj\Debug\AStar.Form1.resources
+D:\毕业设计Astar\下半部分\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\毕业设计Astar\下半部分\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\bin\Debug\AStar.exe.config
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\obj\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\obj\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\bin\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\bin\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\obj\Debug\AStar.Form1.resources
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\mydocuments\documents\外块\毕业设计Astar\下半部分 - 副本\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+E:\C# - Windows PC 编程\练习\AStar\AStar\bin\Debug\AStar.exe.config
+E:\C# - Windows PC 编程\练习\AStar\AStar\obj\Debug\AStar.exe
+E:\C# - Windows PC 编程\练习\AStar\AStar\obj\Debug\AStar.pdb
+E:\C# - Windows PC 编程\练习\AStar\AStar\bin\Debug\AStar.exe
+E:\C# - Windows PC 编程\练习\AStar\AStar\bin\Debug\AStar.pdb
+E:\C# - Windows PC 编程\练习\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+E:\C# - Windows PC 编程\练习\AStar\AStar\obj\Debug\AStar.Form1.resources
+E:\C# - Windows PC 编程\练习\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+E:\C# - Windows PC 编程\练习\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+C:\Users\Damon\Desktop\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\Damon\Desktop\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\Damon\Desktop\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\Damon\Desktop\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\Damon\Desktop\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\Damon\Desktop\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+C:\Users\Damon\Desktop\AStar\AStar\obj\Debug\AStar.Form1.resources
+C:\Users\Damon\Desktop\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+C:\Users\Damon\Desktop\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+C:\Users\Damon\Desktop\AStar - 副本\AStar\bin\Debug\AStar.exe.config
+C:\Users\Damon\Desktop\AStar - 副本\AStar\obj\Debug\AStar.exe
+C:\Users\Damon\Desktop\AStar - 副本\AStar\obj\Debug\AStar.pdb
+C:\Users\Damon\Desktop\AStar - 副本\AStar\bin\Debug\AStar.exe
+C:\Users\Damon\Desktop\AStar - 副本\AStar\bin\Debug\AStar.pdb
+C:\Users\Damon\Desktop\AStar - 副本\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+C:\Users\Damon\Desktop\AStar - 副本\AStar\obj\Debug\AStar.Form1.resources
+C:\Users\Damon\Desktop\AStar - 副本\AStar\obj\Debug\AStar.Properties.Resources.resources
+C:\Users\Damon\Desktop\AStar - 副本\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\bin\Debug\AStar.exe.config
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\obj\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\obj\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\bin\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\bin\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\obj\Debug\AStar.Form1.resources
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\mydocuments\documents\外块\毕业设计Astar\成品\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\bin\Debug\AStar.exe.config
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\obj\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\obj\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\bin\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\bin\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\obj\Debug\AStar.Form1.resources
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 副本\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\bin\Debug\AStar.exe.config
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\obj\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\obj\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\bin\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\bin\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\obj\Debug\AStar.Form1.resources
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\bin\Debug\AStar.exe.config
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\obj\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\obj\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\bin\Debug\AStar.exe
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\bin\Debug\AStar.pdb
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\obj\Debug\AStar.Form1.resources
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+D:\mydocuments\documents\外块\毕业设计Astar\成品 - 最新 - 副本 (2)\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
